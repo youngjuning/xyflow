@@ -52,8 +52,8 @@
     "@reactflow/node-toolbar": "workspace:*"
   },
   "peerDependencies": {
-    "react": ">=17",
-    "react-dom": ">=17"
+    "react": ">=18",
+    "react-dom": ">=18"
   },
   "devDependencies": {
     "@reactflow/eslint-config": "workspace:*",
